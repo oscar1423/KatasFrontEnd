@@ -1,0 +1,55 @@
+ <h2>¿Debería vacunarme?</h2>
+    <p>Para evitar cualquier duda sobre vacunarte en contra COVID-19, identifica los siguientes 4 beneficios de la vacunación:</p>
+    <div class="row">
+        <div class="course-col">
+            <h3>Minimiza el contagio</h3>
+            <p>La vacuna ha sido probada para prevenir a alguien de infectarse con Coronavirus</p>
+        </div>
+        <div class="course-col">
+            <h3>Formación de anticuerpos</h3>
+            <p>La vacuna del COVID-19 ayuda a formar una respuesta de anticuerpos para el sistema inmune</p>
+        </div>
+        <div class="course-col">
+            <h3>Proteger personas cercanas</h3>
+            <p>La vacuna también puede proteger gente cerca de nosotros</p>
+        </div>
+        <div class="course-col">
+            <h3>Crear un grupo de inmunidad</h3>
+            <p>La vacuna es beneficiosa para crear un grupo de inmunidad</p>
+        </div>
+    </div>
+
+    <img src="https://static.wixstatic.com/media/2f2d72_5498b22387664b40ba6dcb204b698a3f~mv2.png/v1/fill/w_504,h_504,al_c,lg_1,enc_auto/facemask.png" alt="Face mask">
+    
+    <h2>Preparaciones antes de la vacuna</h2>
+    <p>El éxito de las vacunas están fuertemente influenciadas la fuerza del sistema inmune del cuerpo. Por lo tanto, hay varias cosas que pueden ayudar a hacer que funcione la vacuna:</p>
+
+    <div>
+        <div class="">
+            <h3>Evita bebidas alcohólicas</h3>
+            <h3>Evita el estrés</h3>
+            <h3>Come alimentos saludables</h3>
+            <h3>Duerme lo suficiente</h3>
+            <h3>Haz ejercicio o alguna actividad física</h3>
+        </div>
+    </div>
+
+    <h2>Contacto de emergencia</h2>
+    <p>Contáctanos a través de estos diferentes métodos si tú o tu familia se sienten mal y tienen síntomas como los del COVID-19, asegúrate de cuidar de ti antes de reportarte con nosotros:</p>
+
+    <div>
+        <h4>Llama</h4>
+        <h6>02112314514</h6>
+        <button>Llama ya</button>
+        <h4>Chatea</h4>
+        <h6>02112314514</h6>
+        <button>Chatea ya</button>
+        <h4>Videollamada</h4>
+        <h6>02112314514</h6>
+        <button>Videollama ya</button>
+        <h4>Mensaje</h4>
+        <h6>02112314514</h6>
+        <button>Envía SMS</button>
+    </div>
+
+    <img src="https://www.pnguniverse.com/wp-content/uploads/2021/01/Doctor.png" alt="Doctor">
